@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sdkconfig.h": "c",
+			"esp_gap_bt_api.h": "c",
+			"esp_log.h": "c",
+			"ps4.h": "c",
+			"esp_system.h": "c",
+			"string.h": "c",
+			"ps4_int.h": "c",
+			"hcidefs.h": "c",
+			"l2cdefs.h": "c",
+			"esp_bt_device.h": "c",
+			"esp_bt_main.h": "c",
+			"esp_bt.h": "c",
+			"stdint.h": "c",
+			"stdbool.h": "c",
+			"bitset": "c",
+			"chrono": "c",
+			"algorithm": "c",
+			"random": "c",
+			"*.inc": "c",
+			"cstring": "c",
+			"ps4_l2cap.h": "c",
+			"ps4_parser.h": "c",
+			"*.tcc": "c"
+		}
+	}
+}
