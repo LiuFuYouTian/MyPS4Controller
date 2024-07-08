@@ -60,4 +60,5 @@ E:/Document/ESPidf/MyPS4Controller/build/esp-idf/spiffs/libspiffs.a
 E:/Document/ESPidf/MyPS4Controller/build/esp-idf/ulp/libulp.a
 E:/Document/ESPidf/MyPS4Controller/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 E:/Document/ESPidf/MyPS4Controller/build/esp-idf/main/libmain.a
+E:/Document/ESPidf/MyPS4Controller/build/esp-idf/esp_pwm/libesp_pwm.a
 E:/Document/ESPidf/MyPS4Controller/build/esp-idf/ps4_control/libps4_control.a

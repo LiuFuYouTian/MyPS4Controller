@@ -394,6 +394,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("E:/Document/ESPidf/MyPS4Controller/build/esp-idf/esp_pwm/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("E:/Document/ESPidf/MyPS4Controller/build/esp-idf/ps4_control/cmake_install.cmake")
 endif()
 

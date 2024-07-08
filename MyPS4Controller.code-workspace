@@ -28,7 +28,13 @@
 			"cstring": "c",
 			"ps4_l2cap.h": "c",
 			"ps4_parser.h": "c",
-			"*.tcc": "c"
+			"*.tcc": "c",
+			"esp_err.h": "c",
+			"stdio.h": "c",
+			"ledc.h": "c",
+			"ledc_types.h": "c",
+			"esp_intr_alloc.h": "c",
+			"esp_pwm.h": "c"
 		}
 	}
 }
